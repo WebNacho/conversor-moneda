@@ -45,13 +45,26 @@ public class Principal {
                     monedaAConvertir = "USD";
                 }
                 case 7 -> { // Salir
-                    System.out.println("¡Gracias por usar el conversor!");
+                    System.out.println("\n¡Gracias por usar el conversor!");
                     System.exit(0);
                 }
             }
 
-            System.out.print("Ingrese el monto a convertir: ");
-            var montoAConvertir = scannerMoneda.nextDouble();
+           //System.out.print("Ingrese el monto a convertir: ");
+           double montoAConvertir = 0;
+
+            boolean valido = false;
+
+            while (!valido) {
+                try {
+                    System.out.print("\nIngrese el monto a convertir: ");
+                    String input = scannerMoneda.next();
+                    montoAConvertir = Double.parseDouble(input);
+                    valido = true;
+                } catch (NumberFormatException e) {
+                    System.out.println("\nPor favor ingrese un valor correcto");
+                }
+            }
 
             try {
                 Moneda moneda = consultaValorMonedaMoneda.consultaMoneda(monedaBase, monedaAConvertir, montoAConvertir);

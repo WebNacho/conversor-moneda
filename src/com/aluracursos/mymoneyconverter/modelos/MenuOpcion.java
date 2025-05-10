@@ -46,7 +46,7 @@ public class MenuOpcion {
                 return mostrarMenu();
             }
         } else {
-            System.out.println("\nPor favor ingresa un valor numérico...\n");
+            System.out.println("\nPor favor ingresa un valor numérico para la selección...\n");
             return mostrarMenu();
         }
     }

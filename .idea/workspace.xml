@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c779cc0-0557-48d1-9cc9-82bf7c62495e" name="Lista de cambios predeterminada" comment="" />
+    <list default="true" id="6c779cc0-0557-48d1-9cc9-82bf7c62495e" name="Lista de cambios predeterminada" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/mymoneyconverter/modelos/MenuOpcion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/mymoneyconverter/modelos/MenuOpcion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/mymoneyconverter/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/mymoneyconverter/principal/Principal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2wmsXQ2mJtrnIYeKuANZa3NbGRb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,11 +36,68 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Aplicación.Principal (1).executor": "Run",
+    "Aplicación.Principal (2).executor": "Run",
+    "Aplicación.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/AluraLatam/Java-Orientado-a-Objetos-G8-One/03-Practicando-condicionales-if-else/practicas/promedio",
+    "project.structure.last.edited": "Módulos",
+    "project.structure.proportion": "0.08561641",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Aplicación.Principal">
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aluracursos.mymoneyconverter.principal.Principal" />
+      <module name="mymoneyconverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aluracursos.mymoneyconverter.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aluracursos.mymoneyconverter.principal.Principal" />
+      <module name="mymoneyconverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aluracursos.mymoneyconverter.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aluracursos.mymoneyconverter.principal.Principal" />
+      <module name="mymoneyconverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aluracursos.mymoneyconverter.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Aplicación.Principal" />
+        <item itemvalue="Aplicación.Principal (2)" />
+        <item itemvalue="Aplicación.Principal (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="Nivel de aplicación" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Tarea por defecto">
