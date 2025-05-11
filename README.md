@@ -25,4 +25,7 @@
 ![Salir](/assets/opcion-salir.png)
 
 
+Para realizar la conversión la aplicación utiliza la API de ExchangeRate-API. Puedes ver la Api <a href="https://www.exchangerate-api.com/">Aqui</a>
+
+
 
