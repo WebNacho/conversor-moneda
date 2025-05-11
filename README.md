@@ -2,25 +2,27 @@
 
 ### Aplicación útil para realizar conversión entre una moneda y otra. Como por ejemplo de "Dolar - USD" a "Peso argentino - ARS"
 
-- ## Uso
+#### La aplicacion tiene un menú con 7 opciones que el usuario puede elegir para realizar la conversión que desee.
 
-La aplicacion tiene un menú con 7 opciones que el usuario puede elegir para realizar la conversión que desee.
+<img src="/assets/1-menu.png">
 
-<img src="assets/1-menu.png">
+#### Cuando el usurio selecciona una opción la aplicación tiene una serie de validaciones para controlar que el usuario ingrese una opcion válida. Es decir que sea un número y que ese número respete el rango permitido.
 
-Cuando el usurio selecciona una opción la aplicación tiene una serie de validaciones para controlar que el usuario ingrese una opcion válida. Que sea un número y q ese número respete el rango permitido.
+![Validar número](/assets/4-validar-numero-del-menu.png)
 
-<img src="assets/4-validar-munero-de-menu.png">
+![Validar rango](/assets/3-fuera-de-rango.png)
 
-<img src="assets/3-fuera-de-rango.png">
+#### Una vez que el usuario ingreso una opción válida. La aplicación tambien controla que el monto para convertir sea correcto. Es decir ingrese un valor numérico.
 
-La aplicación tambien controla que el monto para convertir sea correcto.
+![Monto correcto](/assets/validar-monto.png)
 
-<img src="assets/validar-monto">
+#### Cuando finalmente el sistema logre pasar todas las validaciones recien realiza la conversión.
 
-Cuando finalmente el sistema logra pasar todas las validaciones realiza la conversión.
+![Conversión de moneda](/assets/2-convertir.png)
 
-<img src="assets/2-convertir.png">
+#### El sistema seguira en ejecución hasta que el usuario selecione la opción 7 que es la de la salir.
+
+![Salir](/assets/opcion-salir.png)
 
 
 
